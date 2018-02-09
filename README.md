@@ -10,4 +10,4 @@ dropToFloor.Window()
 
 3.Click "Save Script to Shell" in the Script Editor menu bar to save this script in your shellf
 
-![Alt text](deleteHalf.png?raw=true "dropToFloor.png")
+![Alt text](dropToFloor.png?raw=true "dropToFloor.png")
